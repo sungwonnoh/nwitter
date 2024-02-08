@@ -1,3 +1,6 @@
+# <img src="https://github.com/sungwonnoh/nwitter/assets/129041262/99340d35-0c34-4aea-9455-be26c2429dc5" width=40 heigh=40> 노마드코더 트위터 클론코딩
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
